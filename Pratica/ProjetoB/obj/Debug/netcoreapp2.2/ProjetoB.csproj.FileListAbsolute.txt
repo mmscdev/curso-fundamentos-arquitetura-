@@ -1,0 +1,15 @@
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoB.deps.json
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoB.runtimeconfig.json
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoB.runtimeconfig.dev.json
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoB.dll
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoB.pdb
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoA.dll
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoA.pdb
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.csprojAssemblyReference.cache
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.AssemblyInfoInputs.cache
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.AssemblyInfo.cs
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.csproj.CoreCompileInputs.cache
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.csproj.CopyComplete
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.dll
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.pdb
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.genruntimeconfig.cache

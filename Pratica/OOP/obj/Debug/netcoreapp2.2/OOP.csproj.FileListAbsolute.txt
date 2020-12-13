@@ -1,0 +1,12 @@
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\OOP\bin\Debug\netcoreapp2.2\OOP.deps.json
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\OOP\bin\Debug\netcoreapp2.2\OOP.runtimeconfig.json
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\OOP\bin\Debug\netcoreapp2.2\OOP.runtimeconfig.dev.json
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\OOP\bin\Debug\netcoreapp2.2\OOP.dll
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\OOP\bin\Debug\netcoreapp2.2\OOP.pdb
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\OOP\obj\Debug\netcoreapp2.2\OOP.csprojAssemblyReference.cache
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\OOP\obj\Debug\netcoreapp2.2\OOP.AssemblyInfoInputs.cache
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\OOP\obj\Debug\netcoreapp2.2\OOP.AssemblyInfo.cs
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\OOP\obj\Debug\netcoreapp2.2\OOP.csproj.CoreCompileInputs.cache
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\OOP\obj\Debug\netcoreapp2.2\OOP.dll
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\OOP\obj\Debug\netcoreapp2.2\OOP.pdb
+C:\Users\mayar\OneDrive\DEV\Arquitetura - Eduardo Pires\Fundamentos de Arquitetura\Pratica\OOP\obj\Debug\netcoreapp2.2\OOP.genruntimeconfig.cache

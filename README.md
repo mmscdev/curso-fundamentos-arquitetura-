@@ -1,5 +1,6 @@
-# curso-fundamentos-arquitetura-
-Curso Fundamentos de Arquitetura - Eduardo Pires-
+# curso-fundamentos-arquitetura
+Formação Arquiteto de Software - Eduardo Pires
+Módulo 1 : Curso Fundamentos de Arquitetura
 - Conteúdo
 - OOP
 - SOLID
